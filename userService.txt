@@ -2,4 +2,5 @@ get the user data...!
 process data...
 
 created avatar and saved in feature1
+loggout service
 
