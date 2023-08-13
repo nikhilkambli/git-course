@@ -3,7 +3,7 @@ add user and delete.
 manage database
 closing connect.
 
-manage database
+manage nikhil database
 change 1
 chang2
 
